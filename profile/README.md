@@ -8,10 +8,17 @@ Verifiable on-chain data on crypto projects, for people and AI agents. Founder a
 | --- | --- |
 | [The Feed](https://mcgsignal.com/) | Founder and project interviews from MCG Live: one page for each project on each show. Each claim shows its time in the interview. |
 | [Burn Tracker](https://mcgsignal.com/burn) | The burns of Robinhood Chain tokens, over the period you choose. |
-| [Token list](https://icm-analytics.com/label/v1/tokenlist.json) | The name, ticker and logo of each token, listed by its contract address. |
-| [llms.txt](https://mcgsignal.com/llms.txt) | A map of the site for AI agents. |
 
 Our on-chain data starts with Robinhood Chain. The interviews also cover projects on Solana, Base, Ethereum, NEAR and other chains.
+
+## Data for apps and AI agents
+
+These links open data files, not pages.
+
+| File | What it holds |
+| --- | --- |
+| [Token list (JSON)](https://icm-analytics.com/label/v1/tokenlist.json) | The name, ticker and logo of each token, listed by its contract address. |
+| [llms.txt (text)](https://mcgsignal.com/llms.txt) | A map of the site. |
 
 ## Rules and methods
 
