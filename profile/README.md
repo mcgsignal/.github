@@ -1,6 +1,6 @@
 # MCG Signal
 
-Verifiable on-chain data on crypto projects, for people and AI agents. Founder and project interviews by MCG Live.
+Project-level data on Robinhood Chain, read from our own nodes, for people and AI agents. Founder and project interviews by MCG Live.
 
 ## What is live
 
