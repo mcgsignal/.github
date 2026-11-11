@@ -10,6 +10,8 @@ Project-level data on Robinhood Chain, for people and AI agents. Founder and pro
 | [Burn Tracker](https://mcgsignal.com/burn) | The burns of Robinhood Chain tokens, over the period you choose. | Our own nodes. |
 | [Protocol activity](https://mcgsignal.com/feed/mcg-2026-10-27/0xc72f232a6869e6cf34dc06129affd07f8a2a246a#protocol) | On the page of a project: the volume, the fees and the trades of its protocol. Mancer is the first example. | The statistics that the project publishes, read one time each day. |
 
+Today the protocol activity comes from the statistics of each project. We are building our own index of Robinhood Chain, for people and AI agents, to read these values from the chain.
+
 Our on-chain data starts with Robinhood Chain. The interviews also cover projects on Solana, Base, Ethereum, NEAR and other chains.
 
 ## Data for apps and AI agents
